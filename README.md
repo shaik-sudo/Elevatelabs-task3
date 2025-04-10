@@ -1,5 +1,5 @@
 # Elevatelabs-task3
-##Objective: Use SQL to analyze an eCommerce-style dataset and answer business questions.
+##Objective: Use SQL to analyze an eCommerce-style dataset.
 
 ## Dataset
 I created a small eCommerce database with the following tables:
